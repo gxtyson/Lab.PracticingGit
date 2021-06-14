@@ -1,1 +1,1 @@
-This repo is for learning how to use git
+This is changed text to show how to add new changes to a file
